@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+    
+    <entry>
+      <title><![CDATA[AngularJS + MongoDB 简单登陆认证]]></title>
+      <url>http://XiaoMingXing.github.io/2017/01/17/AngularJS-MongoDB-%E7%AE%80%E5%8D%95%E7%99%BB%E9%99%86%E8%AE%A4%E8%AF%81/</url>
+      <content type="html"><![CDATA[<p>当前内容是属于登陆认证系列博客中的第一讲，本节的主要内容包括概念和实践两个部分。</p>
+<p>第一部分是概念，首先会对当前的登陆认证现状做一个简介，随后会简单介绍一下MEAN架构（MongoDB, Express.js, AngularJS, and Node.js），最后会介绍一下使用MEAN架构实现登陆认证的功能.</p>
+<p>第二部份是实践，在这节内容中，我们会一步步的帮助大家搭建基本MEAN架构的简单登陆系统</p>
+<p><strong>以下是本博客的内容大纲：</strong></p>
+<ul>
+<li>登陆认证简介</li>
+<li>MEAN架构简介</li>
+<li>使用AngularJs2搭建前端</li>
+<li>使用NodeJs搭建后端</li>
+<li>使用Mongoonse连接MongoDB数据库</li>
+<li>完成登陆认证</li>
+</ul>
+]]></content>
+    </entry>
+    
+  
+  
+</search>
